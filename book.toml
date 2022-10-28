@@ -1,0 +1,12 @@
+[book]
+authors = ["Hung Pham"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hung Dev Book"
+
+[output.html]
+default-theme = "rust"
+mathjax-support = true
+git-repository-url = "https://github.com/phamphihungbk/learn"
+git-repository-icon = "fa-github"
