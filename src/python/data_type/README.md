@@ -3,6 +3,8 @@
 - [`set`](#set)
 - [`sequence`](#sequence)
 - [`mapping`](#mapping)
+- [`heap`](#mapping)
+- [`queue`](#mapping)
 
 [↑ top](#python-data-types)
 <br><br><br><br><hr>
@@ -45,8 +47,7 @@ print('After adding new element:', fruits)
 # Size of the set
 print('Size of the set:', len(fruits))
 
->> size
-7
+>> Size of the set: 7
 
 ```
 
@@ -58,6 +59,7 @@ print('Size of the set:', len(fruits))
 > - tuple is immutable, list is mutable
 > - tuple is faster and consume less memory than list
 > - should not define a list in tuple
+> - use array to constraint the type of elements stored in the list
 
 <br>
 
@@ -92,6 +94,23 @@ print("Example to show mutablity ", List)
 
 # Original list  [1, 2, 4, 4, 3, 3, 3, 6, 5]
 # Example to show mutablity  [1, 2, 4, 77, 3, 3, 3, 6, 5]
+
+```
+
+<br>
+
+**array**
+
+```python
+# importing "array" for array creations
+import array as arr
+
+# creating an array with integer type
+a = arr.array('i', [1, 2, 3])
+
+# creating an array with double type
+b = arr.array('d', [2.5, 3.2, 3.3])
+
 
 ```
 
