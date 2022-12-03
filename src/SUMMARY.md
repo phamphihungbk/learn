@@ -36,4 +36,4 @@
 
 # Command
 **Command**
-- [jwt](command/README.md)v
+- [command](command/README.md)v

@@ -11,6 +11,7 @@
 <br>
 
 > - open -a application: open app on mac by terminal
+> - lauchctl [stop|list]: stop or list out all running services
 
 
 [↑ top](#command)

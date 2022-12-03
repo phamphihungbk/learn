@@ -73,8 +73,6 @@ jwt has two kinds of token:
 
 **invalidate token:**
 
-<br>
-
 - creating a blacklist: using redis to create blacklist token
 - introduce refresh token
 
