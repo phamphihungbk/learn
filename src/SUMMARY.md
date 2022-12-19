@@ -1,24 +1,22 @@
 # Summary
 
-[Introduction](./introduction.md)
+- [Home](./home.md)
 
 # Python
 **Python**
 - [data types](./python/data_type/README.md)
-	- [string](python/data_type/string/README.md)
-	- [list](python/data_type/list/README.md)
+	- [string](./python/data_type/string/README.md)
+	- [list](./python/data_type/list/README.md)
 - [oop](./python/oop/README.md)
-
-
-
 
 # Javascript
 **Javascript**
-- [tring](./javascript/string/README.md)
+- [string](./javascript/string/README.md)
+- [design pattern](./javascript/design_pattern/README.md)
 
 # PHP
 **PHP**
-- [tring](./php/string/README.md)
+- [string](./php/string/README.md)
 
 # Data Structures
 **Data Structures**
@@ -32,8 +30,8 @@
 
 # Security
 **Security**
-- [jwt](security/jwt/README.md)
+- [jwt](./security/jwt/README.md)
 
 # Command
 **Command**
-- [command](command/README.md)v
+- [command](./command/README.md)
