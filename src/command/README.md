@@ -1,7 +1,24 @@
 # Command
 
+- [`general command`](#general-command)
 - [`mac os`](#mac-os)
 - [`networking`](#networking)
+
+[↑ top](#command)
+<br><br><br><br><hr>
+
+### `general command`
+
+<br>
+
+### eval command
+
+This is equivalent to running the command ls -l directly on the command line.
+
+```bash
+x="ls -l"
+eval $x
+```
 
 [↑ top](#command)
 <br><br><br><br><hr>

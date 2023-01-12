@@ -7,9 +7,10 @@ that I get over the years.
 
 ### Contents
 
-- [Python](#python)
-- [Javascript](#python)
-- [PHP](#python)
+- [Python](./src/python)
+- [Javascript](./src/javascript)
+- [PHP](./src/php)
+- [Typescript](./src/typescript)
 
 [↑ top](#contents)
 <br><br>

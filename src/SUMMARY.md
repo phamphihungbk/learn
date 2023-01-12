@@ -14,6 +14,10 @@
 - [string](./javascript/string/README.md)
 - [design pattern](./javascript/design_pattern/README.md)
 
+# Typescript
+**Typescript**
+- [best practices](typescript/best_practices/README.md)
+
 # PHP
 **PHP**
 - [string](./php/string/README.md)
