@@ -17,6 +17,8 @@
 # Typescript
 **Typescript**
 - [best practices](typescript/best_practices/README.md)
+- [generic](typescript/generic/README.md)
+- [type](typescript/type/README.md)
 
 # PHP
 **PHP**
